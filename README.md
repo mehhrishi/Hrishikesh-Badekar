@@ -1,3 +1,4 @@
+![logo](https://github.com/mehhrishi/Hrishikesh-Badekar/blob/main/Copy%20of%20Project%201.jpg)
 <h1 align="center">Hi 👋, I'm Hrishikesh Badekar</h1>
 <h3 align="center">Data Scientist</h3>
 
