@@ -1,6 +1,6 @@
 ![logo](https://github.com/mehhrishi/Hrishikesh-Badekar/blob/main/Copy%20of%20Project%201.jpg)
 <h1 align="center">Hi 👋, I'm Hrishikesh Badekar</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">A data scientist with 1+ years of experience in the IT industry, specializing in data analysis, machine learning, and deep learning. Proven ability to solve complex problems with data-driven solutions and to communicate those solutions to both technical and non-technical audiences. Skilled at working with large, complex datasets and at developing robust, scalable algorithms and models. Experienced at leading data science projects from start to finish, including data collection, feature engineering, model development, deployment, and monitoring.</h3>
 
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47daxwfxu29mtjbkbjx7aw045l18qbafh0i7hnz38f&rid=giphy.gif&ct=g">
 
